@@ -1,0 +1,11 @@
+build/
+out/
+.vs/
+*.user
+*.suo
+*.sln
+*.vcxproj*
+*.exe
+*.pdb
+*.obj
+*.lib
