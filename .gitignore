@@ -1,5 +1,6 @@
 build/
 out/
+release/
 .vs/
 *.user
 *.suo
@@ -9,3 +10,4 @@ out/
 *.pdb
 *.obj
 *.lib
+*.zip
